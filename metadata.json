@@ -1,0 +1,6 @@
+{
+  "name": "Football Elite",
+  "description": "Your ultimate football training, workout, diet, sleep, and progress tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
